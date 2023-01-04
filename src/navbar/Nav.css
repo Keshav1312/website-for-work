@@ -1,0 +1,14 @@
+#nbtn1 {
+    /* color:"#000000", height:"10vh", paddingRight:"1.2vw", paddingLeft:"1.2vw" */
+    color: #000000;
+    height: 10vh;
+    padding-right: 1.2vw;
+    padding-left: 1.2vw;
+}
+
+#nbtn1:hover {
+    /* color:"#000000", height:"10vh", paddingRight:"1.2vw", paddingLeft:"1.2vw" */
+    transition-duration: 350ms;
+    background-color: #708cb6;
+    
+}
